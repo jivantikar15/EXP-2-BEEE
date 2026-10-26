@@ -50,14 +50,25 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
+<img width="1677" height="770" alt="BEEE EX 1" src="https://github.com/user-attachments/assets/e5b5fcc3-2b08-4b1f-83d1-511715ff9b83" />
+
 
 Model graph:
+<img width="1866" height="587" alt="BEEE EX1 GRAPH" src="https://github.com/user-attachments/assets/5922b34f-2b68-44c8-975a-65cb085f3ae2" />
+
 Calculation: 
+<img width="692" height="657" alt="BEEEEX 1 OT" src="https://github.com/user-attachments/assets/a316a48f-bfad-43a0-832d-775ea3c002a0" />
 
 Open circuit characteristics
 
   
 Load Characteristics:
- 
+ <img width="1322" height="757" alt="BEEE EX 2" src="https://github.com/user-attachments/assets/781729cc-7454-46d9-9367-8c4017b5ab3d" />
+Model Graph:
+<img width="1576" height="772" alt="BEEE EX 2 GRAPH" src="https://github.com/user-attachments/assets/25d514ee-c760-4796-b991-d8fba9a035d1" />
+Calculation:
+<img width="977" height="902" alt="BEEE EX 2 OT" src="https://github.com/user-attachments/assets/f059642e-f153-4a72-ba81-b74c2db99c28" />
+
+
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
